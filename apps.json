@@ -10,7 +10,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/iMedia.TV.v.25.04.06.B.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Truyền Hình"
     },
@@ -24,7 +24,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1ZkJPi7b3TbqDF0yk6aBAkEmW1vAvaN_M"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Monster.TV.v.3.2.0.apk",
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.0.apk",
       "packageName": "com.quang.monstertv",
       "category_name": "Truyền Hình"
     }
@@ -40,7 +40,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/140MJ407y6XHX3ab42TC9IJzC4KmNz2O0"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Youtube.TV.v.2.02.14.apk.",
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
       "packageName": "com.google.android.youtube.tv",
       "category_name": "Youtube"
     },
@@ -54,7 +54,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1i6QHWkn4TLAEejn8FIEyUU1V1LJEKhFp"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/SmartTube_stable_30.48_armeabi-v7a.apk",
+      "downloadUrl": "",
       "packageName": "com.teamsmart.videomanager.tv",
       "category_name": "Youtube"
     }
@@ -70,7 +70,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1B0QOetRzPUOULtg-sG-49K5IsfAVi34Z"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/R.Gi.i.Tri.v.1.1.8.apk",
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/R.Gi.i.Tri.v.1.1.8.apk",
       "packageName": "com.rophim.android.tv",
       "category_name": "Xem Phim"
     },
@@ -84,7 +84,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/13tOY-VkA1Oc4BbGgthEOJaTlJfqvv-_8"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/CloudStream.MOD.apk",
+      "downloadUrl": "...",
       "packageName": "com.lagradost.cloudstream3",
       "category_name": "Xem Phim"
     }
@@ -100,7 +100,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1HHIHzJfMTUsZiT-sBQd9AE7aK6nP8Fgy"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Monplayer.apk",
+      "downloadUrl": "...",
       "packageName": "org.monplayer.mpapferrari",
       "category_name": "Thể Thao"
     },
@@ -114,7 +114,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1b6ltmlcKEULdVsrebMHWiFiTL5MTngw7"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Sports.tv.v.5.1.1.apk",
+      "downloadUrl": "...",
       "packageName": "com.sports.tv",
       "category_name": "Thể Thao"
     }
@@ -130,7 +130,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1lmfaFXPdN9dmu0LTvvHrO7k8puPBh-MU"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Vietnampvn.v.4.6.2.6.apk",
+      "downloadUrl": "...",
       "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
       "category_name": "Tiện Ích"
     },
@@ -144,7 +144,7 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1_W9BvqgvHe5euBOS4_E5i6K6LE_2oPoN"
       ],
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/1.1.1.1.v.6.33.apk",
+      "downloadUrl": "...",
       "packageName": "com.cloudflare.onedotonedotonedotone",
       "category_name": "Tiện Ích"
       }
