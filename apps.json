@@ -3,12 +3,12 @@
     {
       "id": "tv1",
       "title": "iMediaTV Test",
-      "icon": "https://github.com/tvstore012026/Anh/blob/main/imedia%20icon.webp",
+      "icon": "https://github.com/tvstore012026/Anh/main/imedia%20icon.webp",
       "rating": 4.2,
       "version": "25.04.06.B",
       "description": "Xem TV online, kênh địa phương, thể thao.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/blob/main/ImediaTV.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
       ],
       "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/iMedia.TV.v.25.04.06.B.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
