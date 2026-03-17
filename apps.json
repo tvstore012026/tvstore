@@ -151,16 +151,16 @@
     ],
       "Giao Diện": [
         {
-            "id": "gd1",
-            "title": "Đang cập nhật",
-            "icon": "https://lh3.googleusercontent.com/d/1Eq6J5fEA9ttNyh1WjQjTRsIJgjfDUvto",
-            "rating": 5,
-            "version": "1.0.0",
-            "description": "Một ứng dụng hoàn toàn mới.",
-            "screenshots": [],
-            "downloadUrl": "...",
-            "packageName": "com.example.newapp",
-            "category_name": "Giao Diện"
+          "id": "gd1",
+          "title": "Đang cập nhật",
+          "icon": "https://lh3.googleusercontent.com/d/1Eq6J5fEA9ttNyh1WjQjTRsIJgjfDUvto",
+          "rating": 5,
+          "version": "1.0.0",
+          "description": "Một ứng dụng hoàn toàn mới.",
+          "screenshots": [],
+          "downloadUrl": "...",
+          "packageName": "com.example.newapp",
+          "category_name": "Giao Diện"
     }
   ]
 }
