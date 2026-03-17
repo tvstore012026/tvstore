@@ -22,7 +22,7 @@
       "version": "3.2.0",
       "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
       ],
       "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.0.apk",
       "packageName": "com.quang.monstertv",
@@ -33,7 +33,7 @@
     {
       "id": "yotube1",
       "title": "Youtube",
-      "icon": "https://github.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
       "rating": 4.8,
       "version": "2.02.14",
       "description": "Ứng dụng chính thức của google có quảng cáo.",
@@ -47,12 +47,12 @@
     {
       "id": "Youtube2",
       "title": "SmartTube(stable)",
-      "icon": "https://github.com/tvstore012026/Anh/main/smarrttube%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
       "rating": 4,
       "version": "30.48",
       "description": "Smarttube loại bỏ quảng cáo.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/SmartTubeApp.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
       ],
       "downloadUrl": "",
       "packageName": "com.teamsmart.videomanager.tv",
@@ -63,12 +63,12 @@
     {
       "id": "Phim1",
       "title": "Rổ giải trí",
-      "icon": "https://github.com/tvstore012026/Anh/main/ro%20giai%20tri%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/ro%20giai%20tri%20icon.png",
       "rating": 4.3,
       "version": "1.1.8",
       "description": "Kênh giải trí Xem phim và bóng đá.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/ro%20giei%20tri.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ro%20giei%20tri.png"
       ],
       "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/R.Gi.i.Tri.v.1.1.8.apk",
       "packageName": "com.rophim.android.tv",
@@ -77,12 +77,12 @@
     {
       "id": "Phim2",
       "title": "CloudStream (MOD)",
-      "icon": "https://github.com/tvstore012026/Anh/main/CloudStream%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/CloudStream%20icon.png",
       "rating": 4.3,
       "version": "4.6.0",
       "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/CloudstreamTV.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/CloudstreamTV.png"
       ],
       "downloadUrl": "...",
       "packageName": "com.lagradost.cloudstream3",
@@ -93,12 +93,12 @@
     {
       "id": "th1",
       "title": "MonPlayerTV",
-      "icon": "https://github.com/tvstore012026/Anh/main/Monplayer%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/Monplayer%20icon.png",
       "rating": 4.6,
       "version": "1.0.11",
       "description": "Ứng dụng xem thể thao mượt mà.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
       ],
       "downloadUrl": "...",
       "packageName": "org.monplayer.mpapferrari",
@@ -107,12 +107,12 @@
     {
       "id": "th2",
       "title": "SportsTV",
-      "icon": "https://github.com/tvstore012026/Anh/main/sports%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports%20icon.png",
       "rating": 4.6,
       "version": "5.1.1",
       "description": "Nội dung thể thao từ các nguồn bên ngoài.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/sports.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports.png"
       ],
       "downloadUrl": "...",
       "packageName": "com.sports.tv",
@@ -123,12 +123,12 @@
     {
       "id": "tc5",
       "title": "VIETNAM VPN",
-      "icon": "https://github.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
       "rating": 5,
       "version": "4.6.2",
       "description": "Bảo mật kết nối và ẩn IP.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/vietnam.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
       ],
       "downloadUrl": "...",
       "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
@@ -137,12 +137,12 @@
     {
       "id": "tc6",
       "title": "1.1.1.1",
-      "icon": "https://github.com/tvstore012026/Anh/main/1111%20icon.png",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/1111%20icon.png",
       "rating": 5,
       "version": "6.33",
       "description": "Dịch vụ VPN miễn phí từ Cloudflare.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/main/1111.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/1111.png"
       ],
       "downloadUrl": "...",
       "packageName": "com.cloudflare.onedotonedotonedotone",
@@ -153,7 +153,7 @@
       {
         "id": "gd1",
         "title": "Đang cập nhật",
-        "icon": "https://lh3.googleusercontent.com/d/1Eq6J5fEA9ttNyh1WjQjTRsIJgjfDUvto",
+        "icon": "https://raw.githubusercontent.com/tvstore012026/tvstore/main/logo.png",
         "rating": 5,
         "version": "1.0.0",
         "description": "Một ứng dụng hoàn toàn mới.",
