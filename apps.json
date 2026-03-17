@@ -38,7 +38,7 @@
       "version": "2.02.14",
       "description": "Ứng dụng chính thức của google có quảng cáo.",
       "screenshots": [
-        "https://github.com/tvstore012026/Anh/blob/main/Youtube.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/blob/main/Youtube.png"
       ],
       "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
       "packageName": "com.google.android.youtube.tv",
