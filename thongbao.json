@@ -1,1 +1,7 @@
-{"true":false,"message":"Chào mừng đến với XiaomiStore kho ứng dụng cho Android TV, Đang trong thời gian cập nhật ứng dụng - Được sỡ hữu bởi TheMy... ","labelColor":"#f00202","textColor":"#9bd4fa"}
+{
+  "show": true,
+  "message": "Chào mừng đến với Xiaomi Store kho ứng dụng cho Android TV, Đang trong thời gian cập nhật ứng dụng - Được sở hữu bởi AnhBaoTV... ",
+  "labelColor": "#f00202",
+  "textColor": "#9bd4fa",
+  "backgroundColor": "#1F2937"
+}
