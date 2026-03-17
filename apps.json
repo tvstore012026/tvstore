@@ -1,0 +1,152 @@
+{
+  "Truyền Hình": [
+    {
+      "id": "tv1",
+      "title": "iMediaTV Test",
+      "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
+      "rating": 4.2,
+      "version": "25.04.06.B",
+      "description": "Xem TV online, kênh địa phương, thể thao.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "category_name": "Truyền Hình"
+    },
+    {
+      "id": "tv2",
+      "title": "MonsterTV",
+      "icon": "https://lh3.googleusercontent.com/d/1LHHZiXGddPnq-H7M812RAXdrQsDglgfs",
+      "rating": 4.2,
+      "version": "3.2.0",
+      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1ZkJPi7b3TbqDF0yk6aBAkEmW1vAvaN_M"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Monster.TV.v.3.2.0.apk",
+      "packageName": "com.quang.monstertv",
+      "category_name": "Truyền Hình"
+    }
+  ],
+  "Youtube": [
+    {
+      "id": "yotube1",
+      "title": "Youtube",
+      "icon": "https://lh3.googleusercontent.com/d/1cWIGVS-4sMv901_KyhM5uY1VsGlh1Acr",
+      "rating": 4.8,
+      "version": "2.02.14",
+      "description": "Ứng dụng chính thức của google có quảng cáo.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/140MJ407y6XHX3ab42TC9IJzC4KmNz2O0"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Youtube.TV.v.2.02.14.apk.",
+      "packageName": "com.google.android.youtube.tv",
+      "category_name": "Youtube"
+    },
+    {
+      "id": "Youtube2",
+      "title": "SmartTube(stable)",
+      "icon": "https://lh3.googleusercontent.com/d/1nDFoughGJVkS9iVqOKSrDuQqzUg6VRdc",
+      "rating": 4,
+      "version": "30.48",
+      "description": "Smarttube loại bỏ quảng cáo.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1i6QHWkn4TLAEejn8FIEyUU1V1LJEKhFp"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/SmartTube_stable_30.48_armeabi-v7a.apk",
+      "packageName": "com.teamsmart.videomanager.tv",
+      "category_name": "Youtube"
+    }
+  ],
+  "Xem Phim": [
+    {
+      "id": "Phim1",
+      "title": "Rổ giải trí",
+      "icon": "https://lh3.googleusercontent.com/d/1vGEBOiJ_6lxtusl6bCRbaVFf-PZmU2DB",
+      "rating": 4.3,
+      "version": "1.1.8",
+      "description": "Kênh giải trí Xem phim và bóng đá.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1B0QOetRzPUOULtg-sG-49K5IsfAVi34Z"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/R.Gi.i.Tri.v.1.1.8.apk",
+      "packageName": "com.rophim.android.tv",
+      "category_name": "Xem Phim"
+    },
+    {
+      "id": "Phim2",
+      "title": "CloudStream (MOD)",
+      "icon": "https://lh3.googleusercontent.com/d/1Vv0_oPJ90guV5QRpcDwpQ7Za3siCoDJJ",
+      "rating": 4.3,
+      "version": "4.6.0",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/13tOY-VkA1Oc4BbGgthEOJaTlJfqvv-_8"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/CloudStream.MOD.apk",
+      "packageName": "com.lagradost.cloudstream3",
+      "category_name": "Xem Phim"
+    }
+  ],
+  "Thể Thao": [
+    {
+      "id": "th1",
+      "title": "MonPlayerTV",
+      "icon": "https://lh3.googleusercontent.com/d/1zrzB7r1uNHB1buQVeRAnlBtdFp7XtRpO",
+      "rating": 4.6,
+      "version": "1.0.11",
+      "description": "Ứng dụng xem thể thao mượt mà.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1HHIHzJfMTUsZiT-sBQd9AE7aK6nP8Fgy"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Monplayer.apk",
+      "packageName": "org.monplayer.mpapferrari",
+      "category_name": "Thể Thao"
+    },
+    {
+      "id": "th2",
+      "title": "SportsTV",
+      "icon": "https://lh3.googleusercontent.com/d/1Mc5fxKY8AOISsTtLjRDhz6UgD_0J0waa",
+      "rating": 4.6,
+      "version": "5.1.1",
+      "description": "Nội dung thể thao từ các nguồn bên ngoài.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1b6ltmlcKEULdVsrebMHWiFiTL5MTngw7"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Sports.tv.v.5.1.1.apk",
+      "packageName": "com.sports.tv",
+      "category_name": "Thể Thao"
+    }
+  ],
+  "Tiện Ích": [
+    {
+      "id": "tc5",
+      "title": "VIETNAM VPN",
+      "icon": "https://lh3.googleusercontent.com/d/1QhvewwmrN2MVtYbSaIh1AHjafQE-DADr",
+      "rating": 5,
+      "version": "4.6.2",
+      "description": "Bảo mật kết nối và ẩn IP.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1lmfaFXPdN9dmu0LTvvHrO7k8puPBh-MU"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Vietnampvn.v.4.6.2.6.apk",
+      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "category_name": "Tiện Ích"
+    },
+    {
+      "id": "tc6",
+      "title": "1.1.1.1",
+      "icon": "https://lh3.googleusercontent.com/d/10oZfIxyn1qg1eD7meCvrrp-Bv4sIpjNU",
+      "rating": 5,
+      "version": "6.33",
+      "description": "Dịch vụ VPN miễn phí từ Cloudflare.",
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1_W9BvqgvHe5euBOS4_E5i6K6LE_2oPoN"
+      ],
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/1.1.1.1.v.6.33.apk",
+      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "category_name": "Tiện Ích"
+    }
+  ]
+}
