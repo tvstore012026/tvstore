@@ -163,18 +163,18 @@
       "category_name": "Tiện Ích"
       }
     ],
-  "Giao Diện 2": [
+  "Camera": [
       {
-        "id": "gd12",
-        "title": "Đang cập nhật",
+        "id": "cmr1",
+        "title": "Eviz",
         "icon": "https://raw.githubusercontent.com/tvstore012026/tvstore/main/logo.png",
         "rating": 5,
         "version": "1.0.2",
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": [],
         "downloadUrl": "...",
-        "packageName": "com.example.newapp2",
-        "category_name": "Giao Diện 2"
+        "packageName": "com.camera.newapp",
+        "category_name": "Camera"
     }
   ],
     "Giao Diện": [
