@@ -119,22 +119,6 @@
       "category_name": "Thể Thao"
     }
   ],
-   "Karaoke": [
-       {
-      "id": "karaoke5",
-      "title": "Karaoke",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
-      "rating": 5,
-      "version": "4.6.2",
-      "description": "Bảo mật kết nối và ẩn IP.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
-      ],
-      "downloadUrl": "...",
-      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
-      "category_name": "Karaoke"
-    },
-     ],
   "Tiện Ích": [
     {
       "id": "tc5",
