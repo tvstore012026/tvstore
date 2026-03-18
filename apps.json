@@ -171,7 +171,7 @@
         "rating": 5,
         "version": "1.0.22",
         "description": "Một ứng dụng hoàn toàn mới.",
-        "screenshots": [https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg],
+        "screenshots": ["https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg"],
         "downloadUrl": "...",
         "packageName": "com.camera.newapp",
         "category_name": "Camera"
