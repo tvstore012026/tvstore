@@ -167,11 +167,11 @@
       {
         "id": "cmr1",
         "title": "Eviz",
-        "icon": "https://raw.githubusercontent.com/tvstore012026/tvstore/main/logo.png",
+        "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/EZVIZ.webp",
         "rating": 5,
         "version": "1.0.2",
         "description": "Một ứng dụng hoàn toàn mới.",
-        "screenshots": [],
+        "screenshots": [https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg],
         "downloadUrl": "...",
         "packageName": "com.camera.newapp",
         "category_name": "Camera"
