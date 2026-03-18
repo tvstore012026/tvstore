@@ -172,7 +172,7 @@
         "version": "1.0.22",
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": ["https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg"],
-        "downloadUrl": "...",
+        "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
         "packageName": "com.camera.newapp",
         "category_name": "Camera"
     }
