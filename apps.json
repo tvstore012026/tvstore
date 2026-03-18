@@ -29,6 +29,37 @@
       "category_name": "Truyền Hình"
     }
   ],
+  {
+  "Truyền Hình": [
+    {
+      "id": "tv1",
+      "title": "iMediaTV Test",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
+      "rating": 4.2,
+      "version": "25.04.06.B",
+      "description": "Xem TV online, kênh địa phương, thể thao.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+      ],
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/iMedia.TV.v.25.04.06.B.apk",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "category_name": "Truyền Hình"
+    },
+    {
+      "id": "tv2",
+      "title": "MonsterTV",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
+      "rating": 4.2,
+      "version": "3.2.0",
+      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+      ],
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.0.apk",
+      "packageName": "com.quang.monstertv",
+      "category_name": "Truyền Hình"
+    }
+  ],
   "Youtube": [
     {
       "id": "yotube1",
