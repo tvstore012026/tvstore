@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
-  "update_url": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Xiaomistore.1.0.1.apk",
+  "latest_version": "1.0.0",
+  "update_url": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Xiaomistore.1.0.0.apk",
   "changelog": "- Thay đổi nền offline,banner,icon.\n- Tăng tốc độ tải ảnh mượt hơn.\n- Ảnh vừa khung app ."
 }
 
