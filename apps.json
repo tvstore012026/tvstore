@@ -2,6 +2,20 @@
   "Truyền Hình": [
     {
       "id": "tv1",
+      "title": "Cò Tivi",
+      "icon": "https://tivixiaomi.vn/TVstore/anh/cotivi.png",
+      "rating": 4.2,
+      "version": "25.04.06.B",
+      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "category_name": "Truyền Hình"
+    },
+    {
+      "id": "tv2",
       "title": "iMediaTV Test",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
       "rating": 4.2,
