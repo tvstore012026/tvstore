@@ -80,19 +80,19 @@
       "screenshots": [
         "https://raw.githubusercontent.com/tvstore012026/Anh/main/vtvgo.webp"
       ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/MyTV_4.67.0_530_20251008.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Truyền Hình"
     },
     {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/App-VTV-Go-200.webp",
+      "id": "tv7",
+      "title": "MyTV",
+      "icon": "https://play-lh.googleusercontent.com/6H5TQl3eTUfhQLsdF9Aq9yIOrOZxypmQyEqMj9WFUhtjVjj4Ngyup4WR6quBwJf6Qg",
       "rating": 4.8,
-      "version": "25.04.06.B",
+      "version": "4.67.0_530_20251008",
       "description": "Xem TV online, kênh địa phương, thể thao.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+        "https://kinhdoanh.hanoi.vnpt.vn/Uploads/images/2020/H%C6%AF%E1%BB%9ANG%20D%E1%BA%AAN%20S%E1%BB%AC%20D%E1%BB%A4NG%20APP%20MYTV%20TR%C3%8AN%20SMARTTV/HUONG%20DAN%20MYTV8.jpg"
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
@@ -108,7 +108,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/MyTV_4.67.0_530_20251008.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Truyền Hình"
     },
