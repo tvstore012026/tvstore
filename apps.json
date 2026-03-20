@@ -44,7 +44,63 @@
     },
        {
       "id": "tv4",
-      "title": "MonsterTV 2",
+      "title": "MonsterTV",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
+      "rating": 4.2,
+      "version": "3.2.0",
+      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+      ],
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.02.apk",
+      "packageName": "com.quang.monstertv2",
+      "category_name": "Truyền Hình"
+    }
+    {
+      "id": "tv5",
+      "title": "QuanTV",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
+      "rating": 4.2,
+      "version": "3.2.0",
+      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+      ],
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.02.apk",
+      "packageName": "com.quang.monstertv2",
+      "category_name": "Truyền Hình"
+    }
+    {
+      "id": "tv6",
+      "title": "VietPlayTV",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
+      "rating": 4.2,
+      "version": "3.2.0",
+      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+      ],
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.02.apk",
+      "packageName": "com.quang.monstertv2",
+      "category_name": "Truyền Hình"
+    }
+    {
+      "id": "tv7",
+      "title": "vAppTV",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
+      "rating": 4.2,
+      "version": "3.2.0",
+      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+      ],
+      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.02.apk",
+      "packageName": "com.quang.monstertv2",
+      "category_name": "Truyền Hình"
+    }
+    {
+      "id": "tv8",
+      "title": "VTVGo TV",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
       "rating": 4.2,
       "version": "3.2.0",
