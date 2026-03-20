@@ -56,20 +56,6 @@
       "packageName": "com.quang.monstertv2",
       "category_name": "Truyền Hình"
     }
-    {
-      "id": "tv5",
-      "title": "QuanTV",
-      "icon": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
-      "rating": 4.3,
-      "version": "250921",
-      "description": "QuanTV là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/quantv.apk",
-      "packageName": "com.quang.quantv",
-      "category_name": "Truyền Hình"
-    },
   ],
   "Youtube": [
     {
