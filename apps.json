@@ -29,17 +29,17 @@
       "category_name": "Truyền Hình"
     },
     {
-      "id": "tv2",
-      "title": "MonsterTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
+      "id": "tv3",
+      "title": "DL Tivi - Dinhlap",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
       "rating": 4.2,
-      "version": "3.2.0",
-      "description": "Truyền hình trực tuyến, các kênh địa phương và quốc tế.",
+      "version": "16.01",
+      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
       ],
       "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Monster.TV.v.3.2.0.apk",
-      "packageName": "com.quang.monstertv",
+      "packageName": "com.quang.dltivi",
       "category_name": "Truyền Hình"
     },
        {
