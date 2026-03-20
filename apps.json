@@ -11,7 +11,7 @@
         "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "packageName": "com.cofvuong.tivi",
       "category_name": "Truyền Hình"
     },
     {
@@ -39,7 +39,7 @@
         "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "packageName": "com.dinhlap.tivi",
       "category_name": "Truyền Hình"
     },
     {
@@ -53,7 +53,7 @@
         "https://raw.githubusercontent.com/tvstore012026/Anh/main/QUANTV.jpg"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/quantv.apk",
-      "packageName": "com.google.android.youtube.tv",
+      "packageName": "vn.quan.quantv",
       "category_name": "Truyền Hình"
     },
     {
@@ -67,7 +67,7 @@
         "https://raw.githubusercontent.com/tvstore012026/Anh/main/tv360.webp"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tv360.apk",
-      "packageName": "com.teamsmart.videomanager.tv",
+      "packageName": "com.viettel.tv360.androidtv",
       "category_name": "Truyền Hình"
     },
     {
@@ -81,7 +81,7 @@
         "https://raw.githubusercontent.com/tvstore012026/Anh/main/vtvgo.webp"
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/MyTV_4.67.0_530_20251008.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "packageName": "vn.vtv.vtvgo.smarttv",
       "category_name": "Truyền Hình"
     },
     {
@@ -95,7 +95,7 @@
         "https://kinhdoanh.hanoi.vnpt.vn/Uploads/images/2020/H%C6%AF%E1%BB%9ANG%20D%E1%BA%AAN%20S%E1%BB%AC%20D%E1%BB%A4NG%20APP%20MYTV%20TR%C3%8AN%20SMARTTV/HUONG%20DAN%20MYTV8.jpg"
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/MyTV_4.67.0_530_20251008.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "packageName": "com.vnpt.mytv.androidtv",
       "category_name": "Truyền Hình"
     },
     {
@@ -109,7 +109,7 @@
         "https://play-lh.googleusercontent.com/jlqypBHaA4X9BBKqaXa2SbQbudF0Mc27DDkfCpOR-vM_lnT1H-r8EFucS7Scke2KPA=w526-h296-rw"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vietplaytv.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "packageName": "com.nghenhin24h.vietplaytv",
       "category_name": "Truyền Hình"
     },
     {
@@ -122,7 +122,7 @@
       "screenshots": [
         "https://play-lh.googleusercontent.com/jlqypBHaA4X9BBKqaXa2SbQbudF0Mc27DDkfCpOR-vM_lnT1H-r8EFucS7Scke2KPA=w526-h296-rw"
       ],
-      "downloadUrl": "https://bom.so/getout",
+      "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/getout.apk",
       "packageName": "com.google.android.youtube.tv",
       "category_name": "Truyền Hình"
     },
@@ -137,7 +137,7 @@
         "https://play-lh.googleusercontent.com/jlqypBHaA4X9BBKqaXa2SbQbudF0Mc27DDkfCpOR-vM_lnT1H-r8EFucS7Scke2KPA=w526-h296-rw"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rbtv.apk",
-      "packageName": "com.teamsmart.videomanager.tv",
+      "packageName": "com.rblive.tv",
       "category_name": "Truyền Hình"
     }
   ],
