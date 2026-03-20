@@ -451,7 +451,7 @@
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
-    },
+    }
     ],
   "Thể Thao": [
     {
@@ -565,7 +565,7 @@
       "downloadUrl": "...",
       "packageName": "com.sports.tv",
       "category_name": "Thể Thao"
-    },
+    }
   ],
   "Tiện Ích": [
     {
