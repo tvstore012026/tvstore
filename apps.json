@@ -316,8 +316,8 @@
       "id": "Phim0",
       "title": "Phim Nè",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/phimne.jpg",
-      "rating": 4.3,
-      "version": "1.1.8",
+      "rating": 4.8,
+      "version": "4.1.4",
       "description": "xem Phim.Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
         "https://news.vio.vn/wp-content/uploads/2024/03/web-xem-phim-11.png"
@@ -336,8 +336,8 @@
       "screenshots": [
         "https://cdn2.tuoitre.vn/thumb_w/480/471584752817336320/2026/2/5/rophim1-17702652470282117282363.jpg"
       ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rophimf.apk",
-      "packageName": "com.rophim.android.tv",
+      "downloadUrl": "https://image.chillcdn.top/file/cm9waGltbQ/app/update/rophimm.apk",
+      "packageName": "net.rophimm.nqt",
       "category_name": "Xem Phim"
     },
     {
@@ -359,7 +359,7 @@
       "title": "Vua Giải Trí",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFJTkQm4NAsmSMVFhCG7qVjOSJoBGvUcxgwlgteIkSn5T447B49eYWw1f&s=10",
       "rating": 4.9,
-      "version": "1.1.3",
+      "version": "1.1.8",
       "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
         "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
@@ -373,7 +373,7 @@
       "title": "Rạp Phim TV",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoOihXfGL3UGjPPcN72PamaIIE_P-ZtTPvcNxm5K3yCTd17e4V2UVywk&s=10",
       "rating": 4.8,
-      "version": "25.04.06.B",
+      "version": "1.0.5",
       "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
         "https://cdn.tgdd.vn/Files/2016/10/27/905608/7-ung-dung-xem-phim-online-hap-dan-tren-smart-tivi-15.jpg"
@@ -387,7 +387,7 @@
       "title": "Phim 30",
       "icon": "https://img.pikbest.com/origin/10/49/11/85tpIkbEsTcjq.png!sw800",
       "rating": 4.2,
-      "version": "16.01",
+      "version": "1.0.9",
       "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
         "https://media-cdn-v2.laodong.vn/storage/newsportal/2019/9/18/755388/Netflix-01.png?w=660"
@@ -429,7 +429,7 @@
       "title": "NVC Movie TV",
       "icon": "https://toppng.com/uploads/preview/play-movies-icon-android-lollipop-11530957374aecomtjqey.png",
       "rating": 4.9,
-      "version": "1.1.3",
+      "version": "1.42",
       "description": "Kênh giải trí tổng hợp nhiều nguồn....",
       "screenshots": [
         "https://thanhnien.mediacdn.vn/Uploaded/trandong/2015_09_30/phim-lau-d_LYTL.jpg?width=500"
@@ -443,7 +443,7 @@
       "title": "CloudStream (MOD)",
       "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/cs3.jpg",
       "rating": 4.8,
-      "version": "25.04.06.B",
+      "version": "4.6.0",
       "description": "Kênh giải trí tổng hợp nhiều nguồn..",
       "screenshots": [
         "https://cloudstream-apk.com/wp-content/uploads/2025/04/Select-Content-1024x576.webp"
