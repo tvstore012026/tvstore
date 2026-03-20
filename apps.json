@@ -314,141 +314,141 @@
   "Xem Phim": [
     {
       "id": "Phim1",
-      "title": "Rổ giải trí",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/ro%20giai%20tri%20icon.png",
+      "title": "Rổ Phim FAKE",
+      "icon": "https://cdn2.tuoitre.vn/zoom/700_700/471584752817336320/2026/2/5/627127918-1490429379111594-9220538697976330302-n-copy-1770265011500300512150-400-0-1172-1475-crop-17702650475791941049916.jpg",
       "rating": 4.3,
       "version": "1.1.8",
-      "description": "Kênh giải trí Xem phim và bóng đá.",
+      "description": "xem Phim.Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ro%20giei%20tri.png"
+        "https://cdn2.tuoitre.vn/thumb_w/480/471584752817336320/2026/2/5/rophim1-17702652470282117282363.jpg"
       ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/R.Gi.i.Tri.v.1.1.8.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rophimf.apk",
       "packageName": "com.rophim.android.tv",
       "category_name": "Xem Phim"
     },
     {
       "id": "Phim2",
-      "title": "CloudStream (MOD)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/CloudStream%20icon.png",
+      "title": "Phim 4K",
+      "icon": "https://img.freepik.com/vector-gratis/diseno-icona-insignia-resolucion-pantalla-4k-ultra-hd-dorada_1017-54543.jpg",
       "rating": 4.3,
       "version": "4.6.0",
       "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/CloudstreamTV.png"
+        "https://gucongnghe.com/wp-content/uploads/2020/06/xem-video-netflix-4k.jpg"
       ],
-      "downloadUrl": "...",
+      "downloadUrl": "https://phim4k.xyz/downloads/androidtv",
       "packageName": "com.lagradost.cloudstream3",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim3",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
+      "title": "Vua Giải Trí",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFJTkQm4NAsmSMVFhCG7qVjOSJoBGvUcxgwlgteIkSn5T447B49eYWw1f&s=10",
       "rating": 4.9,
       "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
         "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
       ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
+      "downloadUrl": "https://github.com/manhnv699/vuagiaitri/releases/download/tv-app-armeabi-v7a/tv-app-armeabi-v7a.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim4",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
+      "title": "Rạp Phim TV",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoOihXfGL3UGjPPcN72PamaIIE_P-ZtTPvcNxm5K3yCTd17e4V2UVywk&s=10",
       "rating": 4.8,
       "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+        "https://cdn.tgdd.vn/Files/2016/10/27/905608/7-ung-dung-xem-phim-online-hap-dan-tren-smart-tivi-15.jpg"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rapphimtv.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim5",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
+      "title": "Phim 30",
+      "icon": "https://img.pikbest.com/origin/10/49/11/85tpIkbEsTcjq.png!sw800",
       "rating": 4.2,
       "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
+        "https://media-cdn-v2.laodong.vn/storage/newsportal/2019/9/18/755388/Netflix-01.png?w=660"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/phim30.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim6",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
+      "title": "Xem14",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21DW-fpKMDx-Doc5Ews6snONwWGT5VenqV1EertcmYNXMj8i9FLecCXOd&s=10",
       "rating": 4.8,
       "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn..",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
+        "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/174877/Originals/web-tai-phim-4.jpg"
       ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xem14.apk",
       "packageName": "com.google.android.youtube.tv",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim7",
       "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
+      "icon": "https://www.hieugaphim.fun/logo.png",
       "rating": 4,
       "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
+        "https://blog.dktcdn.net/files/web-tai-phim-netflix-com.jpg"
       ],
-      "downloadUrl": "",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/hieuga.apk",
       "packageName": "com.teamsmart.videomanager.tv",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim8",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
+      "title": "NVC Movie TV",
+      "icon": "https://toppng.com/uploads/preview/play-movies-icon-android-lollipop-11530957374aecomtjqey.png",
       "rating": 4.9,
       "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn....",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
+        "https://thanhnien.mediacdn.vn/Uploaded/trandong/2015_09_30/phim-lau-d_LYTL.jpg?width=500"
       ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/nvc.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim9",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
+      "title": "CloudStream (MOD)",
+      "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/cs3.jpg",
       "rating": 4.8,
       "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn..",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+        "https://cloudstream-apk.com/wp-content/uploads/2025/04/Select-Content-1024x576.webp"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/clst.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
     },
     {
       "id": "phim10",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
+      "title": "PCRTV",
+      "icon": "https://cdn-icons-png.flaticon.com/512/4193/4193268.png",
       "rating": 4.2,
       "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
+      "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
+        "https://thanhnien.mediacdn.vn/Uploaded/trandong/2015_09_30/phim-lau-d_LYTL.jpg?width=500"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/pcr.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Xem Phim"
     }
@@ -608,7 +608,7 @@
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sp.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
       "id": "tc4",
@@ -616,44 +616,44 @@
       "icon": "https://m.media-amazon.com/images/I/31KVvZnHbuL.png",
       "rating": 4.8,
       "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
+      "description": "...",
       "screenshots": [
         "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/a5f25f71-bbea-43e5-ad48-13299a6ef532/1553070200/downloader-by-aftvnews-Downloader-by-AFTVnews-for-Android.jpg"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ferraridownloader.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
-      "id": "tv3",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
+      "id": "tc5",
+      "title": "RS File Manager",
+      "icon": "https://play-lh.googleusercontent.com/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
       "rating": 4.2,
       "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
+      "description": "Ứng dụng quản lý tệp Trình quản lý tệp RS - Trình khám phá tệp RS là Trình quản lý tệp tối ưu dành cho Android.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
+        "https://play-lh.googleusercontent.com/ZtaEikryauSUtWZEHmHCzY3WabTbCq4vZHZn4veFPQ-Tzsy6kecCKpuCS1njHRBVLe8=w1052-h592-rw"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rsfile.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
-      "id": "tv4",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
+      "id": "tc6",
+      "title": "Xplorer File Manager",
+      "icon": "https://play-lh.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
       "rating": 4.8,
       "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
+      "description": ".Hướng dẫn ứng dụng: www.lonelycatgames.com/docs/xplore",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
+        "https://play-lh.googleusercontent.com/kIuAZIv-U7nSYnDYjWfHQL3myD9T29zt_INdo2B9-OnETSRTnebkUZ_vk2Xwok9Uw3WB=w1052-h592-rw"
       ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk",
       "packageName": "com.google.android.youtube.tv",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
-      "id": "tv5",
+      "id": "tc7",
       "title": "SmartTube(stable)",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
       "rating": 4,
@@ -664,7 +664,7 @@
       ],
       "downloadUrl": "",
       "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
       "id": "tv1",
@@ -678,7 +678,7 @@
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
       "id": "tv2",
@@ -692,7 +692,7 @@
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
       "id": "tv3",
@@ -706,7 +706,7 @@
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
       "id": "tv4",
@@ -720,7 +720,7 @@
       ],
       "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
       "packageName": "com.google.android.youtube.tv",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     },
     {
       "id": "tv5",
@@ -734,7 +734,7 @@
       ],
       "downloadUrl": "",
       "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Truyền Hình"
+      "category_name": "Tiện Ích"
     }
     ],
   "Camera": [
