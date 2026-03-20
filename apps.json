@@ -58,15 +58,15 @@
     },
     {
       "id": "tv5",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
+      "title": "TV 360",
+      "icon": "https://play-lh.googleusercontent.com/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
+      "rating": 4.8,
+      "version": "4.4",
+      "description": "ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/tv360.webp"
       ],
-      "downloadUrl": "",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tv360.apk",
       "packageName": "com.teamsmart.videomanager.tv",
       "category_name": "Truyền Hình"
     },
