@@ -313,6 +313,20 @@
   ],
   "Xem Phim": [
     {
+      "id": "Phim0",
+      "title": "Phim Nè",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/phimne.jpg",
+      "rating": 4.3,
+      "version": "1.1.8",
+      "description": "xem Phim.Kênh giải trí tổng hợp nhiều nguồn.",
+      "screenshots": [
+        "https://news.vio.vn/wp-content/uploads/2024/03/web-xem-phim-11.png"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rophimf.apk",
+      "packageName": "com.rophim.android.tv",
+      "category_name": "Xem Phim"
+    },
+    {
       "id": "Phim1",
       "title": "Rổ Phim FAKE",
       "icon": "https://cdn2.tuoitre.vn/zoom/700_700/471584752817336320/2026/2/5/627127918-1490429379111594-9220538697976330302-n-copy-1770265011500300512150-400-0-1172-1475-crop-17702650475791941049916.jpg",
