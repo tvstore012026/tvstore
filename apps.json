@@ -569,7 +569,7 @@
   ],
   "Tiện Ích": [
     {
-      "id": "tc5",
+      "id": "tc1",
       "title": "VIETNAM VPN",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
       "rating": 5,
@@ -583,7 +583,7 @@
       "category_name": "Tiện Ích"
     },
     {
-      "id": "tc6",
+      "id": "tc2",
       "title": "1.1.1.1",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/1111%20icon.png",
       "rating": 5,
@@ -597,16 +597,16 @@
       "category_name": "Tiện Ích"
     },
     {
-      "id": "tv1",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
+      "id": "tc3",
+      "title": "Tốc độ mạng",
+      "icon": "https://play-lh.googleusercontent.com/1LKWySZIE8Shx6Y1oy1LgrAtgDo-FwweOmW1hnfTVggPOM0txJ1qYtc8G8XOEfDpGA",
       "rating": 4.9,
       "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
+      "description": "Kiểm tra Tốc độ. Internet Speed Test - VNPT NET. booked.net. Test your internet speed Company Logo. GO. VNPT-NET. Ha Noi. All trademarks of Ookla, LLC, .",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
+        "https://www.tapsmart.com/wp-content/uploads/2021/09/speedtest-header-930x620.jpg"
       ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sp.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Truyền Hình"
     },
