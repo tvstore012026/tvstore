@@ -611,16 +611,16 @@
       "category_name": "Truyền Hình"
     },
     {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
+      "id": "tc4",
+      "title": "Ferarri Downloader",
+      "icon": "https://m.media-amazon.com/images/I/31KVvZnHbuL.png",
       "rating": 4.8,
       "version": "25.04.06.B",
       "description": "Xem TV online, kênh địa phương, thể thao.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+        "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/a5f25f71-bbea-43e5-ad48-13299a6ef532/1553070200/downloader-by-aftvnews-Downloader-by-AFTVnews-for-Android.jpg"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ferraridownloader.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Truyền Hình"
     },
