@@ -100,43 +100,43 @@
     },
     {
       "id": "tv8",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
+      "title": "VietPlay TV",
+      "icon": "https://vietplayplus.com/api/public/files/vietplayplus-placeholder_bhParT8xG.jpg",
       "rating": 4.2,
       "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
+      "description": "là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
+        "https://play-lh.googleusercontent.com/jlqypBHaA4X9BBKqaXa2SbQbudF0Mc27DDkfCpOR-vM_lnT1H-r8EFucS7Scke2KPA=w526-h296-rw"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/MyTV_4.67.0_530_20251008.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vietplaytv.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Truyền Hình"
     },
     {
       "id": "tv9",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
+      "title": "GetOut TV",
+      "icon": "https://images.squarespace-cdn.com/content/v1/670d98b0a7fb7e4efc9210f3/8cab6f67-ceab-4aab-be22-8f8ccd8e7b8b/GetOut_Day_Logo_Large.png",
       "rating": 4.8,
       "version": "2.02.14",
       "description": "Ứng dụng chính thức của google có quảng cáo.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
+        "https://play-lh.googleusercontent.com/jlqypBHaA4X9BBKqaXa2SbQbudF0Mc27DDkfCpOR-vM_lnT1H-r8EFucS7Scke2KPA=w526-h296-rw"
       ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
+      "downloadUrl": "https://bom.so/getout",
       "packageName": "com.google.android.youtube.tv",
       "category_name": "Truyền Hình"
     },
     {
       "id": "tv10",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
+      "title": "RBTV +",
+      "icon": "https://play-lh.googleusercontent.com/-q5lFRsHgU7T6jFE9XLzFJMlm1in2NoF9ibscFriWYu1HdoE5d6aOmJRtAKFomyd6Tjr",
       "rating": 4,
       "version": "30.48",
       "description": "Smarttube loại bỏ quảng cáo.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
+        "https://play-lh.googleusercontent.com/jlqypBHaA4X9BBKqaXa2SbQbudF0Mc27DDkfCpOR-vM_lnT1H-r8EFucS7Scke2KPA=w526-h296-rw"
       ],
-      "downloadUrl": "",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rbtv.apk",
       "packageName": "com.teamsmart.videomanager.tv",
       "category_name": "Truyền Hình"
     }
