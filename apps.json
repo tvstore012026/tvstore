@@ -144,15 +144,15 @@
   "Youtube": [
     {
       "id": "yotube1",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
+      "title": "ToTuBe -DL",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/4452983956444474668.jpg",
       "rating": 4.8,
       "version": "2.02.14",
       "description": "Ứng dụng chính thức của google có quảng cáo.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/totube.jpg"
       ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
+      "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/ToTube_6.4-DL.apk",
       "packageName": "com.google.android.youtube.tv",
       "category_name": "Youtube"
     },
@@ -386,8 +386,8 @@
       "id": "phim6",
       "title": "Xem14",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21DW-fpKMDx-Doc5Ews6snONwWGT5VenqV1EertcmYNXMj8i9FLecCXOd&s=10",
-      "rating": 4.8,
-      "version": "2.02.14",
+      "rating": 4.2,
+      "version": "1.0.1",
       "description": "Kênh giải trí tổng hợp nhiều nguồn..",
       "screenshots": [
         "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/174877/Originals/web-tai-phim-4.jpg"
@@ -400,8 +400,8 @@
       "id": "phim7",
       "title": "Hiếu Gà Cinema",
       "icon": "https://www.hieugaphim.fun/logo.png",
-      "rating": 4,
-      "version": "30.48",
+      "rating": 4.3,
+      "version": "1.0.0",
       "description": "Kênh giải trí tổng hợp nhiều nguồn.",
       "screenshots": [
         "https://blog.dktcdn.net/files/web-tai-phim-netflix-com.jpg"
