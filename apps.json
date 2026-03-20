@@ -18,7 +18,7 @@
       "id": "tv2",
       "title": "iMediaTV-Xem TV HD",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.2,
+      "rating": 4.8,
       "version": "25.04.06.B",
       "description": "Xem TV online, kênh địa phương, thể thao.",
       "screenshots": [
@@ -43,7 +43,7 @@
       "category_name": "Truyền Hình"
     },
        {
-      "id": "tv3",
+      "id": "tv4",
       "title": "MonsterTV 2",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/monster%20tv%20logo.png",
       "rating": 4.2,
@@ -56,6 +56,20 @@
       "packageName": "com.quang.monstertv2",
       "category_name": "Truyền Hình"
     }
+    {
+      "id": "tv5",
+      "title": "QuanTV",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
+      "rating": 4.3,
+      "version": "250921",
+      "description": "QuanTV là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/QuanTV_250921.apk",
+      "packageName": "com.quang.quantv",
+      "category_name": "Truyền Hình"
+    },
   ],
   "Youtube": [
     {
