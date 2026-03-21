@@ -113,7 +113,7 @@
       "category_name": "Truyền Hình"
     }
   ],
-  "Youtube": [
+  "Youtube - Video Giải Trí": [
     {
       "id": "yotube1",
       "title": "ToTuBe -DL",
@@ -132,7 +132,7 @@
       "id": "Youtube2",
       "title": "SmartTube(stable)",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
+      "rating": 4.9,
       "version": "Mới nhất",
       "description": "Smarttube loại bỏ quảng cáo.",
       "screenshots": [
@@ -150,85 +150,85 @@
       "version": "1.1.3",
       "description": "smarttube loại bỏ quảng cáo...",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
+        "https://raw.githubusercontent.com/yuliskov/SmartTube/master/images/browse_home.png"
       ],
-      "downloadUrl": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=smarttube-next-beta",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "downloadUrl": "http://tivixiaomi.vn/TVstore/truyenhinh/smarttubebeta.apk",
+      "packageName": "org.smarttube.beta",
       "category_name": "Youtube"
     },
     {
       "id": "yotube4",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
+      "title": "TizenTube",
+      "icon": "https://i0.wp.com/techspace.africa/wp-content/uploads/2025/11/tizentube.png?resize=696%2C392&ssl=1",
       "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
+      "version": "1.0.8",
+      "description": "Xem youtube chặn quảng cáo",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
+        "https://upandclear.org/wp-content/uploads/2025/10/tizentube4.jpg"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tizentubegoc.apk",
+      "packageName": "io.gh.reisxd.tizentube.cobalt",
       "category_name": "Youtube"
     },
     {
       "id": "yotube5",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
+      "title": "NoTube",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOQdkVYUIsYtF232DBs7VPV7nfILu0CKV6Q&s",
       "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
+      "version": "0.0.3DL",
+      "description": "ứng dụng xem youtube không quảng cáo",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
+        "https://i.redd.it/notubetv-ad-free-youtube-leanback-for-android-tv-v0-cdemfqylr64f1.png?width=1202&format=png&auto=webp&s=fffa5c4adb2021ac4fa81ef214d419abb5848306"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/notube.apk",
+      "packageName": "com.ycngmn.notubetv",
       "category_name": "Youtube"
     },
     {
       "id": "yotube6",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
+      "title": "SmartyouTubeTV",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIe-DYQfz1AqwkaiDaKLcgo7jU57UeI2mkOQ&s",
       "rating": 4.8,
-      "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
+      "version": "6.17.739",
+      "description": "xem youtube không quảng cáo",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
+        "https://image.winudf.com/v2/user/admin/YWRtaW5fNS5wbmdfMTY2MjAyMDA2NDM3OQ/screen-4.jpg?h=200&fakeurl=1&type=.jpg"
       ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
-      "packageName": "com.google.android.youtube.tv",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/smartyoutubetv.apk",
+      "packageName": "com.liskovsoft.videomanager",
       "category_name": "Youtube"
     },
     {
       "id": "yotube7",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
+      "title": "Youtube TV (mod)",
+      "icon": "https://logos-world.net/wp-content/uploads/2021/04/YouTube-TV-Symbol.png",
+      "rating": 4.9,
+      "version": "1.0.8",
+      "description": "tizentube loại bỏ quảng cáo.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
+        "https://upandclear.org/wp-content/uploads/2025/10/tizentube4.jpg"
       ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tizentubemod.apk",
+      "packageName": "com.liskovsoft.smarttubetv.beta",
       "category_name": "Youtube"
     },
     {
       "id": "yotube8",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
+      "title": "YouTube TV ( gốc )",
+      "icon": "https://logos-world.net/wp-content/uploads/2021/04/YouTube-TV-Symbol.png",
       "rating": 4.9,
-      "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
+      "version": "2.02.08",
+      "description": "youtube gốc của Google có quảng cáo ...",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
+        "https://cdn.tgdd.vn/Files/2015/08/03/678311/cach-su-dung-ung-dung-youtube-tren-android-tivi-sony-2015-20.jpg"
       ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/youtubegoc.apk",
+      "packageName": "com.google.android.youtube.tv",
       "category_name": "Youtube"
     },
     {
       "id": "yotube9",
-      "title": "iMediaTV-Xem TV HD",
+      "title": "YouTube Kid TV",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
       "rating": 4.8,
       "version": "25.04.06.B",
