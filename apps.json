@@ -268,32 +268,6 @@
       "category_name": "Youtube"
     }
     ],
-  "Karaoke - Âm Nhạc": [
-      {
-        "id": "karaoke1",
-        "title": "KaraTube – Karaoke Online",
-        "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/karatube.png",
-        "rating": 4.1,
-        "version": "1.0.32",
-        "description": "Ứng dụng hát Karaoke chuyên nghiệp miễn phí với nguồn nhạc chọn lọc từ YouTube. Điều khiển chọn bài bằng điện thoại/máy tính bảng.",
-        "screenshots": [],
-        "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
-        "packageName": "vn.skplayer.karatube",
-        "category_name": "karaoke"
-    },
-    {
-        "id": "karaoke2",
-        "title": "Tivi Karaoke",
-        "icon": "https://play-lh.googleusercontent.com/8stC8gwNOrXi-4jefehP4jnuotguYH-x-ub_Q_-rEVaLsxB2tKsfXQ7vobWBY0Yi-A",
-        "rating": 4.8,
-        "version": "1.0.1",
-        "description": "Ứng dụng hát Karaoke chuyên nghiệp miễn phí với nguồn nhạc chọn lọc từ YouTube. Điều khiển chọn bài bằng điện thoại/máy tính bảng.",
-        "screenshots": ["https://play-lh.googleusercontent.com/Ogv_XaJ-XKfeD5VN9TX2okOla6_CtZ3q-JgBiXrXXruocUlEQ2wWG_ig85eMjclGtw=w526-h296-rw"],
-        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tivikaraoke.apk",
-        "packageName": "tv.tivi.karaoke",
-        "category_name": "karaoke"
-    }
-  ],
   "Xem Phim": [
     {
       "id": "Phim0",
