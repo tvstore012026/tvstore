@@ -228,16 +228,43 @@
     },
     {
       "id": "yotube12",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
+      "title": "TikTok Lite",
+      "icon": "https://thuvienvector.vn/wp-content/uploads/2025/09/TikTok-Logo-png.jpg",
       "rating": 4,
       "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
+      "description": "Bản TikTok lite trên mobile lên phải dùng chuột",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
+        "https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/cach-tai-tiktok-tren-tivi-3.png"
       ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/tiktoklite.apk",
+      "packageName": "com.zhiliaoapp.musically.go",
+      "category_name": "Youtube"
+    },
+    {
+      "id": "yotube13",
+      "title": "Galaxy Play",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRO0QLPJaIGurh9pCHnpnBAy7Hn6YUR-alw&s",
+      "rating": 4,
+      "version": "3.10.21",
+      "description": "Galaxy Play là dịch vụ online số 1 việt nam",
+      "screenshots": [
+        "https://cdn2.fptshop.com.vn/unsafe/800x0/tai_khoan_Galaxy_Play_mien_phi_hinh_2_23a67b9f15.jpg"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/tiktoklite.apk",
+      "packageName": "movies.fimplus.vn.andtv",
+      "category_name": "Youtube"
+    },{
+      "id": "yotube13",
+      "title": "Galaxy Play",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRO0QLPJaIGurh9pCHnpnBAy7Hn6YUR-alw&s",
+      "rating": 4,
+      "version": "3.10.21",
+      "description": "Galaxy Play là dịch vụ online số 1 việt nam",
+      "screenshots": [
+        "https://cdn2.fptshop.com.vn/unsafe/800x0/tai_khoan_Galaxy_Play_mien_phi_hinh_2_23a67b9f15.jpg"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/tiktoklite.apk",
+      "packageName": "movies.fimplus.vn.andtv",
       "category_name": "Youtube"
     }
   ],
