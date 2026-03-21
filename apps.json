@@ -644,7 +644,7 @@
         "rating": 4.8,
         "version": "1.0.1",
         "description": "Ứng dụng hát Karaoke chuyên nghiệp miễn phí với nguồn nhạc chọn lọc từ YouTube. Điều khiển chọn bài bằng điện thoại/máy tính bảng.",
-        "screenshots": [https://play-lh.googleusercontent.com/Ogv_XaJ-XKfeD5VN9TX2okOla6_CtZ3q-JgBiXrXXruocUlEQ2wWG_ig85eMjclGtw=w526-h296-rw],
+        "screenshots": ["https://play-lh.googleusercontent.com/Ogv_XaJ-XKfeD5VN9TX2okOla6_CtZ3q-JgBiXrXXruocUlEQ2wWG_ig85eMjclGtw=w526-h296-rw"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tivikaraoke.apk",
         "packageName": "com.karaoke.newapp",
         "category_name": "karaoke"
