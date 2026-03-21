@@ -484,16 +484,16 @@
     },
     {
       "id": "th4",
-      "title": "SportsTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports%20icon.png",
+      "title": "Cricfy TV",
+      "icon": "https://cricfys.com/wp-content/uploads/cricfy-tv.webp",
       "rating": 4.6,
       "version": "5.1.1",
       "description": "Nội dung thể thao từ các nguồn bên ngoài.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports.png"
+        "https://cricfys.com/wp-content/uploads/cricfy-tv-official.webp"
       ],
-      "downloadUrl": "...",
-      "packageName": "com.sports.tv",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cricfy.apk",
+      "packageName": "com.cricfy.tv",
       "category_name": "Thể Thao"
     },
     {
