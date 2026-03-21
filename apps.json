@@ -498,62 +498,20 @@
     },
     {
       "id": "th5",
-      "title": "MonPlayerTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/Monplayer%20icon.png",
+      "title": "SportzX",
+      "icon": "https://apktodo.io/uploads/2025/9/sportzx-football-live-tv-hd-icon.jpg",
       "rating": 4.6,
-      "version": "1.0.11",
+      "version": "1.9",
       "description": "Ứng dụng xem thể thao mượt mà.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+        "https://troypoint.com/wp-content/uploads/2025/10/sportzx-live-sports-app.jpg"
       ],
-      "downloadUrl": "...",
-      "packageName": "org.monplayer.mpapferrari",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sportzx.apk",
+      "packageName": "com.sportzx.live",
       "category_name": "Thể Thao"
     },
     {
       "id": "th6",
-      "title": "SportsTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports%20icon.png",
-      "rating": 4.6,
-      "version": "5.1.1",
-      "description": "Nội dung thể thao từ các nguồn bên ngoài.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports.png"
-      ],
-      "downloadUrl": "...",
-      "packageName": "com.sports.tv",
-      "category_name": "Thể Thao"
-    },
-    {
-      "id": "th7",
-      "title": "MonPlayerTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/Monplayer%20icon.png",
-      "rating": 4.6,
-      "version": "1.0.11",
-      "description": "Ứng dụng xem thể thao mượt mà.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
-      ],
-      "downloadUrl": "...",
-      "packageName": "org.monplayer.mpapferrari",
-      "category_name": "Thể Thao"
-    },
-    {
-      "id": "th8",
-      "title": "SportsTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports%20icon.png",
-      "rating": 4.6,
-      "version": "5.1.1",
-      "description": "Nội dung thể thao từ các nguồn bên ngoài.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports.png"
-      ],
-      "downloadUrl": "...",
-      "packageName": "com.sports.tv",
-      "category_name": "Thể Thao"
-    },
-    {
-      "id": "th9",
       "title": "GetOut TV",
       "icon": "https://images.squarespace-cdn.com/content/v1/670d98b0a7fb7e4efc9210f3/8cab6f67-ceab-4aab-be22-8f8ccd8e7b8b/GetOut_Day_Logo_Large.png",
       "rating": 4.8,
@@ -567,7 +525,7 @@
       "category_name": "Thể Thao"
     },
     {
-      "id": "th10",
+      "id": "th7",
       "title": "RBTV +",
       "icon": "https://play-lh.googleusercontent.com/-q5lFRsHgU7T6jFE9XLzFJMlm1in2NoF9ibscFriWYu1HdoE5d6aOmJRtAKFomyd6Tjr",
       "rating": 4,
@@ -665,90 +623,6 @@
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk",
       "packageName": "com.google.android.youtube.tv",
       "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tc7",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
-      ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tv1",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
-      "rating": 4.9,
-      "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tv3",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tv4",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
-      "rating": 4.8,
-      "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
-      ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tv5",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
-      ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Tiện Ích"
     }
     ],
   "Camera": [
@@ -763,146 +637,6 @@
         "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
         "packageName": "com.camera.newapp",
         "category_name": "Camera"
-    },
-    {
-      "id": "tv1",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
-      "rating": 4.9,
-      "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv3",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv4",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
-      "rating": 4.8,
-      "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
-      ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv5",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
-      ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv1",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
-      "rating": 4.9,
-      "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv3",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv4",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
-      "rating": 4.8,
-      "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
-      ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv5",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
-      ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Truyền Hình"
     }
   ],
   "Karaoke": [
@@ -917,146 +651,6 @@
         "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
         "packageName": "com.karaoke.newapp",
         "category_name": "karaoke"
-    },
-    {
-      "id": "tv1",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
-      "rating": 4.9,
-      "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv3",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv4",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
-      "rating": 4.8,
-      "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
-      ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv5",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
-      ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv1",
-      "title": "Cò Tivi",
-      "icon": "https://tivixiaomi.vn/TVstore/anh/truyenhinh/cotivi.png",
-      "rating": 4.9,
-      "version": "1.1.3",
-      "description": "Cò tivi ứng dụng xem Tivi, Bóng đá miễn phí tốt nhất hiện tại. Xem hơn 200 kênh truyền hình trong nước và quốc tế, Trực tiếp bóng đá ngoại hạng Anh, UEFA Champions League, LaLiga,Ligue 1 , Vleague....",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/co%20thethao.png"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cotivi.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv2",
-      "title": "iMediaTV-Xem TV HD",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv3",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv4",
-      "title": "Youtube",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
-      "rating": 4.8,
-      "version": "2.02.14",
-      "description": "Ứng dụng chính thức của google có quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/Youtube.png"
-      ],
-      "downloadUrl": "https://github.com/tvstore012026/tvstore/releases/download/1.0.0/Youtube.TV.v.2.02.14.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Truyền Hình"
-    },
-    {
-      "id": "tv5",
-      "title": "SmartTube(stable)",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/smarrttube%20icon.png",
-      "rating": 4,
-      "version": "30.48",
-      "description": "Smarttube loại bỏ quảng cáo.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/SmartTubeApp.png"
-      ],
-      "downloadUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "category_name": "Truyền Hình"
     }
   ],
     "Giao Diện": [
