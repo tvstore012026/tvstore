@@ -570,15 +570,15 @@
     {
       "id": "tk1",
       "title": "Google TV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "icon": "https://play-lh.googleusercontent.com/Eh-N9HKWJgQ4Oa5wmhaE5RbHkB3m3Ud9tsW6saUHis05BL7Xnpubi5iamR5lDKd-Ew",
       "rating": 5,
-      "version": "4.6.2",
-      "description": "Bảo mật kết nối và ẩn IP.",
+      "version": "7.9.2023",
+      "description": "Tìm kiếm giọng nói cho tivi Xiaomi.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
+        "https://images2.thanhnien.vn/528068263637045248/2025/4/16/2-17447702431381645539444.jpg"
       ],
-      "downloadUrl": "...",
-      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/googletv.apk",
+      "packageName": "com.google.android.googlequicksearchbox",
       "category_name": "Giọng Nói"
     }
   ],
