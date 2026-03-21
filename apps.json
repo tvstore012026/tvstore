@@ -880,6 +880,30 @@
         "downloadUrl": "...",
         "packageName": "com.example.newapp",
         "category_name": "Giao Diện"
+    },
+    {
+       "id": "gd2",
+        "title": "ATV Launcher PRO",
+        "icon": "https://raw.githubusercontent.com/tvstore012026/tvstore/main/logo.png",
+        "rating": 5,
+        "version": "1.0.0",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://play-lh.googleusercontent.com/K9ezslXnY0Y_SvZrjV3wWQkbnViIDKUAFVUA6PyzMpveV661gnuBKLiwngfAhagxXko=w526-h296-rw"],
+        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/atvlauncher.apk",
+        "packageName": "com.example.newapp",
+        "category_name": "Giao Diện"
+    },
+    {
+        "id": "gd3",
+        "title": "Projectivy Launcher",
+        "icon": "https://play-lh.googleusercontent.com/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
+        "rating": 5,
+        "version": "1.0.0",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://play-lh.googleusercontent.com/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm"],
+        "downloadUrl": "https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/prolauncher.apk",
+        "packageName": "com.example.newapp",
+        "category_name": "Giao Diện"
     }
   ]
 }
