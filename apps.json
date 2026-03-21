@@ -638,6 +638,34 @@
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/qlt.apk",
       "packageName": "com.xiaobaifile.phaptx5",
       "category_name": "Quản Lý File"
+    },
+    {
+      "id": "f5",
+      "title": "Quét Bluetooth",
+      "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/timblt.png",
+      "rating": 4.3,
+      "version": "4.6.2",
+      "description": "Xplorer File Manager là ứng dụng quản lý tệp đơn giản, nhanh chóng, hiệu quả và mạnh mẽ, với giao diện trực quan, gọn gàng.",
+      "screenshots": [
+        "https://static.nhanhavui.com.vn/Content/Uploads/files/tivi-1/cach-ket-noi-bluetooth-voi-tivi-sony.jpg"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/timbluetooth.apk",
+      "packageName": "com.zdworksinc.bluetoothtvsca",
+      "category_name": "Quản Lý File"
+    },
+    {
+      "id": "f6",
+      "title": "Bluetooth Remote & Mouse",
+      "icon": "https://play-lh.googleusercontent.com/oECx2DxYZsIGSoZ9OIBWe3wIy-aPNc0myLsskEEggX0E41AO0VF43yFXFg49vrrkjiAJ=w240-h480-rw",
+      "rating": 4.3,
+      "version": "4.6.2",
+      "description": "Xplorer File Manager là ứng dụng quản lý tệp đơn giản, nhanh chóng, hiệu quả và mạnh mẽ, với giao diện trực quan, gọn gàng.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/oECx2DxYZsIGSoZ9OIBWe3wIy-aPNc0myLsskEEggX0E41AO0VF43yFXFg49vrrkjiAJ=w240-h480-rw"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/bltrm.apk",
+      "packageName": "com.zdworksinc.bluetoothtvsca",
+      "category_name": "Quản Lý File"
     }
     ],
     "Phần mềm VPN": [
