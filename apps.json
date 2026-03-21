@@ -255,15 +255,15 @@
       "category_name": "Youtube"
     },{
       "id": "yotube13",
-      "title": "Galaxy Play",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRO0QLPJaIGurh9pCHnpnBAy7Hn6YUR-alw&s",
+      "title": "HBO Box",
+      "icon": "https://repository-images.githubusercontent.com/746093504/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
       "rating": 4,
       "version": "3.10.21",
-      "description": "Galaxy Play là dịch vụ online số 1 việt nam",
+      "description": "Youtube không quảng cáo FHD",
       "screenshots": [
-        "https://cdn2.fptshop.com.vn/unsafe/800x0/tai_khoan_Galaxy_Play_mien_phi_hinh_2_23a67b9f15.jpg"
+        "https://f-droid.org/repo/org.schabi.newpipe/en-US/tenInchScreenshots/shot_11.png"
       ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/tiktoklite.apk",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/newpipe.apk",
       "packageName": "movies.fimplus.vn.andtv",
       "category_name": "Youtube"
     }
