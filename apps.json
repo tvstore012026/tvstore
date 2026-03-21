@@ -527,16 +527,72 @@
   "Trình Duyệt Website": [
     {
       "id": "tdw1",
-      "title": "VIETNAM VPN",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "title": "Chrome TV",
+      "icon": "https://cdn2.fptshop.com.vn/small/tai_chrome_ve_may_tinh_1_ba8d39880e.jpg",
       "rating": 5,
-      "version": "4.6.2",
-      "description": "Bảo mật kết nối và ẩn IP.",
+      "version": "57.0.2987",
+      "description": "Chrome giúp bạn làm mọi việc có thể trên web. Hãy chọn Chrome – trình duyệt tốc độ cao và bảo mật của Google.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
+        "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2023_11_21_638361644395560442_bia.jpg"
       ],
       "downloadUrl": "...",
-      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "packageName": "com.adnroid.chrome",
+      "category_name": "Trình Duyệt"
+    },
+    {
+      "id": "tdw2",
+      "title": "Cốc Cốc TV Life",
+      "icon": "https://play-lh.googleusercontent.com/WIn2r7aFH7DCOEoGDxuYLQB-rnW5wghnS6Ty5KTCgTxzP3rn3KMmimNXd5sBBpMNTy4",
+      "rating": 5,
+      "version": "1.6",
+      "description": "Cốc Cốc là trình duyệt Internet lướt web nhanh nhẹ. Trình duyệt được tích hợp nhiều tính năng như chặn quảng cáo, tải video, tải nhạc, tải phim nghe nhạc tắt màn hình, xem video hình trong hình (PiP)….",
+      "screenshots": [
+        "https://genk.mediacdn.vn/zoom/700_438/2017/a1-1487239138497.jpg"
+      ],
+      "downloadUrl": "...",
+      "packageName": "com.adnroid.chrome",
+      "category_name": "Trình Duyệt"
+    },
+    {
+      "id": "tdw3",
+      "title": "TV Bro",
+      "icon": "https://img.utdstc.com/icon/20c/e7f/20ce7ff8e6713245f70ce6dcbdfd72429eca2d6e4a0bbabc1e0fb0e6343fe6dd:200",
+      "rating": 5,
+      "version": "1.8.6",
+      "description": "Trình duyệt web được tối ưu hóa để sử dụng với điều khiển TV..",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qIiIyPtxKc903sdu1fgzU2UgH4Ju3ITY1ViYEu6zy2I3rdS8Q9t64uumt5ZmfZYXKg4=w1052-h592-rw"
+      ],
+      "downloadUrl": "...",
+      "packageName": "com.adnroid.chrome",
+      "category_name": "Trình Duyệt"
+    },
+    {
+      "id": "tdw4",
+      "title": "FireFox TV",
+      "icon": "https://phongvu.vn/cong-nghe/wp-content/uploads/2019/06/Firefox-on-Fire-TV-announcement-1400x770-e1559721707627.png",
+      "rating": 5,
+      "version": "4.7.1.Phap",
+      "description": "Chrome giúp bạn làm mọi việc có thể trên web. Hãy chọn Chrome – trình duyệt tốc độ cao và bảo mật của Google.",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OFT1a6Ur0pQ--ZaDtuz9Hciv649xy2AHgQ&s"
+      ],
+      "downloadUrl": "...",
+      "packageName": "com.adnroid.chrome",
+      "category_name": "Trình Duyệt"
+    },
+    {
+      "id": "tdw5",
+      "title": "Kiwi Browser_Fast",
+      "icon": "https://thekiwibrowser.com/wp-content/uploads/2025/08/id9Kkvi6ss_1754164769991-e1758793805355.webp",
+      "rating": 5,
+      "version": "mới nhất",
+      "description": "Chrome giúp bạn làm mọi việc có thể trên web. Hãy chọn Chrome – trình duyệt tốc độ cao và bảo mật của Google.",
+      "screenshots": [
+        "https://cdn-icon.bluestacks.com/UDwbXY3iYu8lJml0hINH4J7E5XXpDtK94l9huFY9GjsQY6bPe_R-x4B11C1uaYYrbTU=s0"
+      ],
+      "downloadUrl": "...",
+      "packageName": "com.adnroid.chrome",
       "category_name": "Trình Duyệt"
     }
     ],
