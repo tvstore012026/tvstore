@@ -848,7 +848,7 @@
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": ["https://taichinhketoanedu.com/uploads/vlc-moi-nhat.jpg"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vlc.apk",
-        "packageName": "com.camera.newapp",
+        "packageName": "org.videolan.vlc",
         "category_name": "Trình Phát Video"
     },
     {
@@ -860,7 +860,7 @@
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": ["https://cdn.aptoide.com/imgs/e/2/9/e291471b520d5a69acc18f8273f96157_feature_graphic.png"],
         "downloadUrl": "https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/mx64.apk",
-        "packageName": "com.camera.newapp",
+        "packageName": "com.mxteck.videoplayer.pro",
         "category_name": "Trình Phát Video"
     },
     {
@@ -872,7 +872,7 @@
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": ["https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/c7/4e/a1c74eea-9c85-ca71-5a89-8a4164b9648c/App_Icon-marketing.lsr/1200x630bb.png"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/aplayer.apk",
-        "packageName": "com.camera.newapp",
+        "packageName": "team.alpha.aplayer",
         "category_name": "Trình Phát Video"
     },
     {
@@ -884,7 +884,7 @@
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": ["https://cdn.aptoide.com/imgs/7/4/4/744d9986d18329fb63161c64fbdec371_feature_graphic.png"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/justplayerl.apk",
-        "packageName": "com.camera.newapp",
+        "packageName": "com.brouken.player",
         "category_name": "Trình Phát Video"
     },
     {
@@ -896,7 +896,7 @@
         "description": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn. Phiên bản đã được mod việt hoá.",
         "screenshots": ["https://m.media-amazon.com/images/I/41XdsMoLUyL.png"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vimu.apk",
-        "packageName": "com.camera.newapp",
+        "packageName": "net.gtvbox.videoplayer",
         "category_name": "Trình Phát Video"
     },
     {
@@ -908,7 +908,7 @@
         "description": "Truyền màn hình - Google Cast cho thiết bị không hỗ trợ 😘.",
         "screenshots": ["https://opengraph.githubassets.com/f9a687ebbfd618dc3bafc1bba49d211fcdd2d2ddde8f544da78e1f523ee5d011/googlecast/CastReceiver"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/castreceiver.apk",
-        "packageName": "com.camera.newapp",
+        "packageName": "com.softmedia.receiver.castapp",
         "category_name": "Trình Phát Video"
     }
   ],
