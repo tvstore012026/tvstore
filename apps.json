@@ -902,7 +902,7 @@
         "description": "Một ứng dụng hoàn toàn mới.",
         "screenshots": ["https://play-lh.googleusercontent.com/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm"],
         "downloadUrl": "https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/prolauncher.apk",
-        "packageName": "com.spock.projengmenu",
+        "packageName": "com.spocky.projengmenu",
         "category_name": "Giao Diện"
     }
   ]
