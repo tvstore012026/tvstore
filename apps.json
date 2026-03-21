@@ -852,7 +852,7 @@
         "title": "Imou Life HD",
         "icon": "https://play-lh.googleusercontent.com/Pq_MMVRqky0xCkaKBuzCmhxxIgszx2Pl9Q17LRkV63wd28shIXE5RrTHFNhKiWsleXk",
         "rating": 5,
-        "version": "1.1.1.0408",
+        "version": "1.1.10",
         "description": "Ứng dụng EZVIZ được thiết kế để hoạt động với hàng loạt NVR bảo mật, DVR và camera đám mây của chúng tôi. .",
         "screenshots": ["https://play-lh.googleusercontent.com/LeHHjTxdbvHpL59cGD_-bN5PvxLU2tMMMy9MNXALIMW1I21yv9fuaLS4Vw907cWZ-_uH-1xHb6QIoPAS3UMh=w526-h296-rw"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/imou.apk",
@@ -861,13 +861,13 @@
     },
     {
         "id": "cmr6",
-        "title": "Imou Life",
-        "icon": "https://play-lh.googleusercontent.com/Pq_MMVRqky0xCkaKBuzCmhxxIgszx2Pl9Q17LRkV63wd28shIXE5RrTHFNhKiWsleXk",
+        "title": "KBviewPlus",
+        "icon": "https://dl.memuplay.com/new_market/img/com.mm.android.direct.KBVISIONVIEWPlus.icon.2025-01-02-02-28-37.png",
         "rating": 5,
-        "version": "1.1.1.0408",
-        "description": "Ứng dụng EZVIZ được thiết kế để hoạt động với hàng loạt NVR bảo mật, DVR và camera đám mây của chúng tôi. .",
-        "screenshots": ["https://play-lh.googleusercontent.com/LeHHjTxdbvHpL59cGD_-bN5PvxLU2tMMMy9MNXALIMW1I21yv9fuaLS4Vw907cWZ-_uH-1xHb6QIoPAS3UMh=w526-h296-rw"],
-        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/imou.apk",
+        "version": "4.0",
+        "description": "Ứng dụng giám sát camera cho thiết bị của KBVISION: .",
+        "screenshots": ["https://i.ytimg.com/vi/r_RlHtX4OF0/maxresdefault.jpg"],
+        "downloadUrl": "https://kbvisiongroup.com/software/KBViewPlus_MultiLang_Basic_IS_V1.099.0000002.0.R.240319.apk",
         "packageName": "com.ezviz.tv",
         "category_name": "Camera"
     }
