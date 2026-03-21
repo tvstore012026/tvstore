@@ -585,15 +585,57 @@
   "Quản Lý File - Bluetooth": [
     {
       "id": "f1",
-      "title": "VIETNAM VPN",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "title": "AnExplorer - Quản Lý Files",
+      "icon": "https://play-lh.googleusercontent.com/jpxPmyOm_o2XYHSH4GCbgmpl6wbciOksXgivWcrEqVbn41arsre6q0voLKY_7UIWpjE=w480-h960-rw",
+      "rating": 4.9,
+      "version": "5.5.1",
+      "description": "AnExplorer File Manager là ứng dụng quản lý tệp đơn giản, nhanh chóng, hiệu quả và mạnh mẽ, với giao diện trực quan, gọn gàng.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/9yv4hztWY4_27TEj2KN8dTuhLhn_pLLCfsHHhcovMqSVwsfvmKd6GvU0f9_xrrtx-ti9MLoRdrtHF8b06fXp=w1052-h592-rw"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/anexplorer.apk",
+      "packageName": "dev.dworks.apps.anexplorer",
+      "category_name": "Quản Lý File"
+    },
+    {
+      "id": "f2",
+      "title": "Xplorer",
+      "icon": "https://play-lh.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
+      "rating": 4.8,
+      "version": "4.6.2",
+      "description": "Xplorer File Manager là ứng dụng quản lý tệp đơn giản, nhanh chóng, hiệu quả và mạnh mẽ, với giao diện trực quan, gọn gàng.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/kIuAZIv-U7nSYnDYjWfHQL3myD9T29zt_INdo2B9-OnETSRTnebkUZ_vk2Xwok9Uw3WB=w5120-h2880-rw"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk",
+      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "category_name": "Quản Lý File"
+    },
+    {
+      "id": "f3",
+      "title": "RS File Manager",
+      "icon": "https://play-lh.googleusercontent.com/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc=w480-h960-rw",
       "rating": 5,
       "version": "4.6.2",
-      "description": "Bảo mật kết nối và ẩn IP.",
+      "description": "Xplorer File Manager là ứng dụng quản lý tệp đơn giản, nhanh chóng, hiệu quả và mạnh mẽ, với giao diện trực quan, gọn gàng.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
+        "https://play-lh.googleusercontent.com/ZtaEikryauSUtWZEHmHCzY3WabTbCq4vZHZn4veFPQ-Tzsy6kecCKpuCS1njHRBVLe8=w1052-h592-rw"
       ],
-      "downloadUrl": "...",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rsfile.apk",
+      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "category_name": "Quản Lý File"
+    ,
+      {
+      "id": "f4",
+      "title": "Quản Lý Tệp",
+      "icon": "https://play-lh.googleusercontent.com/wWmzs0aZkC9fgkbLl5LTtGwfZfXYwflG6-k_tsTZ8licgM04F20TdLWqjQkEN2xaQ10=w480-h960-rw",
+      "rating": 4.3,
+      "version": "4.6.2",
+      "description": "Xplorer File Manager là ứng dụng quản lý tệp đơn giản, nhanh chóng, hiệu quả và mạnh mẽ, với giao diện trực quan, gọn gàng.",
+      "screenshots": [
+        "https://securitybox.vn/wp-content/uploads/2019/01/th%C6%B0-m%E1%BB%A5c-es-1024x576.jpg"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/qlt.apk",
       "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
       "category_name": "Quản Lý File"
     }
@@ -638,7 +680,7 @@
         "https://muaga.me/wp-content/uploads/2020/05/adguard-premium-vinh-vien.png"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/adguard.apk",
-      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "packageName": "com.adguard.android",
       "category_name": "Phần Mềm VPN"
     },
     {
@@ -652,7 +694,7 @@
         "https://play-lh.googleusercontent.com/QeDg46ts4oHQxpx03egAQ9F9PLTbtKQUh2LObXrylexydDHje6UKKQbw3eo6F0HlbWMT"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ultrasurf.apk",
-      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "packageName": "us.ultrasurf.mobile.ultrasurf",
       "category_name": "Phần Mềm VPN"
     },
     {
@@ -666,7 +708,7 @@
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEEr5ttyzoiAX2OsOcSVkXc_tyBNMnPMs6w&s"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/octohide.apk",
-      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "packageName": "octohide.vpn",
       "category_name": "Phần Mềm VPN"
     },
     {
@@ -680,7 +722,7 @@
         "https://play-lh.googleusercontent.com/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw"
       ],
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kiwi.apk",
-      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "packageName": "secure.unblock.unlimited.proxy.s",
       "category_name": "Phần Mềm VPN"
     }
   ],
