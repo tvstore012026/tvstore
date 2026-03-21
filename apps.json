@@ -201,7 +201,7 @@
     {
       "id": "yotube7",
       "title": "Youtube TV (mod)",
-      "icon": "https://logos-world.net/wp-content/uploads/2021/04/YouTube-TV-Symbol.png",
+      "icon": "https://giaiphapvanphong.vn/Image/Picture/New/kenh-youtube.jpg",
       "rating": 4.9,
       "version": "1.0.8",
       "description": "tizentube loại bỏ quảng cáo.",
@@ -213,50 +213,8 @@
       "category_name": "Youtube"
     },
     {
-      "id": "yotube8",
-      "title": "YouTube TV ( gốc )",
-      "icon": "https://logos-world.net/wp-content/uploads/2021/04/YouTube-TV-Symbol.png",
-      "rating": 4.9,
-      "version": "2.02.08",
-      "description": "youtube gốc của Google có quảng cáo ...",
-      "screenshots": [
-        "https://cdn.tgdd.vn/Files/2015/08/03/678311/cach-su-dung-ung-dung-youtube-tren-android-tivi-sony-2015-20.jpg"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/youtubegoc.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Youtube"
-    },
-    {
-      "id": "yotube9",
-      "title": "YouTube Kid TV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/imediaicon.png",
-      "rating": 4.8,
-      "version": "25.04.06.B",
-      "description": "Xem TV online, kênh địa phương, thể thao.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/ImediaTV.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/iMedia_TV_25.04.06.B.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Youtube"
-    },
-    {
-      "id": "yotube10",
-      "title": "DL Tivi - Dinhlap",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20tivi%20logo.png",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "DL Tivi là ứng dụng Truyền hình trực tuyến, các kênh địa phương và quốc tế dành cho cả điện thoại vài TV",
-      "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/truyenhinh/main/DL%20TiVi.png"
-      ],
-      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/DL_Tivi_16.0.1.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Youtube"
-    },
-    {
       "id": "yotube11",
-      "title": "Youtube",
+      "title": "Youtube ( Gốc )",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/yuotube%20icon.jpg",
       "rating": 4.8,
       "version": "2.02.14",
