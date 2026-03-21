@@ -626,6 +626,62 @@
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/1111.apk",
       "packageName": "com.cloudflare.onedotonedotonedotone",
       "category_name": "Phần Mềm VPN"
+    },
+    {
+      "id": "vpn3",
+      "title": "Adguard (MOD)",
+      "icon": "https://muaga.me/wp-content/uploads/2020/05/adguard-premium-vinh-vien.png",
+      "rating": 5,
+      "version": "Mới nhất",
+      "description": "Dịch vụ VPN miễn phí từ Cloudflare.",
+      "screenshots": [
+        "https://muaga.me/wp-content/uploads/2020/05/adguard-premium-vinh-vien.png"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/adguard.apk",
+      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "category_name": "Phần Mềm VPN"
+    },
+    {
+      "id": "vpn4",
+      "title": "UltraSurf VPN",
+      "icon": "https://play-lh.googleusercontent.com/QeDg46ts4oHQxpx03egAQ9F9PLTbtKQUh2LObXrylexydDHje6UKKQbw3eo6F0HlbWMT",
+      "rating": 5,
+      "version": "Mới nhất",
+      "description": "Dịch vụ VPN miễn phí từ Cloudflare.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/1111.png"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ultrasurf.apk",
+      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "category_name": "Phần Mềm VPN"
+    },
+    {
+      "id": "vpn5",
+      "title": "Octohide VPN",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEEr5ttyzoiAX2OsOcSVkXc_tyBNMnPMs6w&s",
+      "rating": 5,
+      "version": "Mới nhất",
+      "description": "Dịch vụ VPN miễn phí từ Cloudflare.",
+      "screenshots": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEEr5ttyzoiAX2OsOcSVkXc_tyBNMnPMs6w&s"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/octohide.apk",
+      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "category_name": "Phần Mềm VPN"
+    },
+    {
+      "id": "vpn6",
+      "title": "KIWI VPN",
+      "icon": "https://play-lh.googleusercontent.com/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw",
+      "rating": 5,
+      "version": "Mới nhất",
+      "description": "Dịch vụ VPN miễn phí từ Cloudflare.",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kiwi.apk",
+      "packageName": "com.cloudflare.onedotonedotonedotone",
+      "category_name": "Phần Mềm VPN"
     }
   ],
   "Tiện Ích": [
