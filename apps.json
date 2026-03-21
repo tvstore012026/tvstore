@@ -550,9 +550,9 @@
       "category_name": "Thể Thao"
     }
     ],
-  "Trình duyệt Website": [
+  "Trình Duyệt Website": [
     {
-      "id": "tc1",
+      "id": "tdw1",
       "title": "VIETNAM VPN",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
       "rating": 5,
@@ -563,13 +563,13 @@
       ],
       "downloadUrl": "...",
       "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
-      "category_name": "Tiện Ích"
+      "category_name": "Trình Duyệt"
     }
     ],
   "Tìm Kiếm Giọng Nói - Bàn Phím": [
     {
-      "id": "tc1",
-      "title": "VIETNAM VPN",
+      "id": "tk1",
+      "title": "Google TV",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
       "rating": 5,
       "version": "4.6.2",
@@ -579,12 +579,12 @@
       ],
       "downloadUrl": "...",
       "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
-      "category_name": "Tiện Ích"
+      "category_name": "Giọng Nói"
     }
   ],
-  "Tiện Ích": [
+  "Quản Lý File - Bluetooth": [
     {
-      "id": "tc1",
+      "id": "f1",
       "title": "VIETNAM VPN",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
       "rating": 5,
@@ -595,10 +595,26 @@
       ],
       "downloadUrl": "...",
       "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
-      "category_name": "Tiện Ích"
+      "category_name": "Quản Lý File"
+    }
+    ],
+    "Phần mềm VPN": [
+    {
+      "id": "vpn1",
+      "title": "VIETNAM VPN",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "rating": 5,
+      "version": "4.6.2",
+      "description": "Bảo mật kết nối và ẩn IP.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vpnvn.apk",
+      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "category_name": "Phần Mềm VPN"
     },
     {
-      "id": "tc2",
+      "id": "vpn2",
       "title": "1.1.1.1",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/1111%20icon.png",
       "rating": 5,
@@ -607,12 +623,14 @@
       "screenshots": [
         "https://raw.githubusercontent.com/tvstore012026/Anh/main/1111.png"
       ],
-      "downloadUrl": "...",
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/1111.apk",
       "packageName": "com.cloudflare.onedotonedotonedotone",
-      "category_name": "Tiện Ích"
-    },
+      "category_name": "Phần Mềm VPN"
+    }
+  ],
+  "Tiện Ích": [
     {
-      "id": "tc3",
+      "id": "tc1",
       "title": "Tốc độ mạng",
       "icon": "https://play-lh.googleusercontent.com/1LKWySZIE8Shx6Y1oy1LgrAtgDo-FwweOmW1hnfTVggPOM0txJ1qYtc8G8XOEfDpGA",
       "rating": 4.9,
@@ -626,7 +644,7 @@
       "category_name": "Tiện Ích"
     },
     {
-      "id": "tc4",
+      "id": "tc2",
       "title": "Ferarri Downloader",
       "icon": "https://m.media-amazon.com/images/I/31KVvZnHbuL.png",
       "rating": 4.8,
@@ -638,37 +656,9 @@
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ferraridownloader.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tc5",
-      "title": "RS File Manager",
-      "icon": "https://play-lh.googleusercontent.com/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
-      "rating": 4.2,
-      "version": "16.01",
-      "description": "Ứng dụng quản lý tệp Trình quản lý tệp RS - Trình khám phá tệp RS là Trình quản lý tệp tối ưu dành cho Android.",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/ZtaEikryauSUtWZEHmHCzY3WabTbCq4vZHZn4veFPQ-Tzsy6kecCKpuCS1njHRBVLe8=w1052-h592-rw"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/rsfile.apk",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "category_name": "Tiện Ích"
-    },
-    {
-      "id": "tc6",
-      "title": "Xplorer File Manager",
-      "icon": "https://play-lh.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
-      "rating": 4.8,
-      "version": "2.02.14",
-      "description": ".Hướng dẫn ứng dụng: www.lonelycatgames.com/docs/xplore",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/kIuAZIv-U7nSYnDYjWfHQL3myD9T29zt_INdo2B9-OnETSRTnebkUZ_vk2Xwok9Uw3WB=w1052-h592-rw"
-      ],
-      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk",
-      "packageName": "com.google.android.youtube.tv",
-      "category_name": "Tiện Ích"
     }
     ],
-  "Camera": [
+  "Phần Mềm Camera": [
       {
         "id": "cmr1",
         "title": "Eviz",
