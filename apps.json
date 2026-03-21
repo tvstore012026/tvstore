@@ -549,6 +549,38 @@
       "packageName": "com.rblive.tv",
       "category_name": "Thể Thao"
     }
+    ],
+  "Trình duyệt Website": [
+    {
+      "id": "tc1",
+      "title": "VIETNAM VPN",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "rating": 5,
+      "version": "4.6.2",
+      "description": "Bảo mật kết nối và ẩn IP.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
+      ],
+      "downloadUrl": "...",
+      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "category_name": "Tiện Ích"
+    }
+    ],
+  "Tìm Kiếm Giọng Nói - Bàn Phím": [
+    {
+      "id": "tc1",
+      "title": "VIETNAM VPN",
+      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/VPN%20icon.png",
+      "rating": 5,
+      "version": "4.6.2",
+      "description": "Bảo mật kết nối và ẩn IP.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vietnam.png"
+      ],
+      "downloadUrl": "...",
+      "packageName": "free.vpnvietnam.unlimited.secure.turbo.unblock.proxy",
+      "category_name": "Tiện Ích"
+    }
   ],
   "Tiện Ích": [
     {
