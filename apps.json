@@ -849,14 +849,14 @@
     },
     {
         "id": "cmr5",
-        "title": "Imou Life",
+        "title": "Imou Life HD",
         "icon": "https://play-lh.googleusercontent.com/Pq_MMVRqky0xCkaKBuzCmhxxIgszx2Pl9Q17LRkV63wd28shIXE5RrTHFNhKiWsleXk",
         "rating": 5,
         "version": "1.1.1.0408",
         "description": "Ứng dụng EZVIZ được thiết kế để hoạt động với hàng loạt NVR bảo mật, DVR và camera đám mây của chúng tôi. .",
         "screenshots": ["https://play-lh.googleusercontent.com/LeHHjTxdbvHpL59cGD_-bN5PvxLU2tMMMy9MNXALIMW1I21yv9fuaLS4Vw907cWZ-_uH-1xHb6QIoPAS3UMh=w526-h296-rw"],
         "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/imou.apk",
-        "packageName": "com.ezviz.tv",
+        "packageName": "com.imoulife.phap",
         "category_name": "Camera"
     },
     {
