@@ -622,6 +622,34 @@
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/mapvoid.apk",
       "packageName": "com.linor.vn.mapVoice",
       "category_name": "Giọng Nói"
+    },
+    {
+      "id": "tk5",
+      "title": "LeankeyBoard",
+      "icon": "https://play-lh.googleusercontent.com/64lBNTOitObo3YW5estD6CBo1LMARegXfk3AY2L6nVjCPCC21YEZ5uYsRvJjuNfIEwA",
+      "rating": 5,
+      "version": "6.1.20",
+      "description": "LeanKey Keyboard là ứng dụng bàn phím gõ tiếng Việt phổ biến nhất cho Android",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4ppGZnzv6qCikMhvc3cOfzBrIr84eb1k0cia2UEKcSVuSKW2uSGml8SvtijHW2KR4cM=w526-h296-rw"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/leankey.apk",
+      "packageName": "org.liskovsoft.androidtv.rukeyboard",
+      "category_name": "Giọng Nói"
+    },
+    {
+      "id": "tk6",
+      "title": "Bàn Phím Android TV",
+      "icon": "https://developer.android.com/static/training/tv/images/atv-keyboard-password.png?hl=vi",
+      "rating": 5,
+      "version": "6.1.20",
+      "description": "LeanKey Keyboard là ứng dụng bàn phím gõ tiếng Việt phổ biến nhất cho Android",
+      "screenshots": [
+        "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/kbatv.png"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/bpatv.apk",
+      "packageName": "com.ndcsolution.androidtv.leankeykeyboard",
+      "category_name": "Giọng Nói"
     }
   ],
   "Quản Lý File - Bluetooth": [
