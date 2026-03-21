@@ -459,7 +459,7 @@
       "title": "SportsTV",
       "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports%20icon.png",
       "rating": 4.6,
-      "version": "5.1.1",
+      "version": "5.2.3",
       "description": "Nội dung thể thao từ các nguồn bên ngoài.",
       "screenshots": [
         "https://raw.githubusercontent.com/tvstore012026/Anh/main/sports.png"
@@ -470,15 +470,15 @@
     },
     {
       "id": "th3",
-      "title": "MonPlayerTV",
-      "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/Monplayer%20icon.png",
+      "title": "Vừa Mới Thấy",
+      "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/vuamoithay.png",
       "rating": 4.6,
-      "version": "1.0.11",
+      "version": "3.0.0",
       "description": "Ứng dụng xem thể thao mượt mà.",
       "screenshots": [
-        "https://raw.githubusercontent.com/tvstore012026/Anh/main/MonSterTV1.jpg"
+        "https://raw.githubusercontent.com/tvstore012026/Anh/main/vmt.jpg"
       ],
-      "downloadUrl": "...",
+      "downloadUrl": "https://github.com/viktorwawick/apk/releases/download/1.0/vmtmod2.apk",
       "packageName": "org.monplayer.mpapferrari",
       "category_name": "Thể Thao"
     },
