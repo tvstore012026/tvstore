@@ -572,13 +572,55 @@
       "title": "Google TV",
       "icon": "https://play-lh.googleusercontent.com/Eh-N9HKWJgQ4Oa5wmhaE5RbHkB3m3Ud9tsW6saUHis05BL7Xnpubi5iamR5lDKd-Ew",
       "rating": 5,
-      "version": "7.9.2023",
-      "description": "Tìm kiếm giọng nói cho tivi Xiaomi.",
+      "version": "24.01",
+      "description": "Tìm kiếm giọng nói cho tivi xiaomi.",
       "screenshots": [
         "https://images2.thanhnien.vn/528068263637045248/2025/4/16/2-17447702431381645539444.jpg"
       ],
       "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/googletv.apk",
       "packageName": "com.google.android.katniss",
+      "category_name": "Giọng Nói"
+    },
+    {
+      "id": "tk2",
+      "title": "KiKi",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZaAmWTutBwqB8Y3rtKLefg52EQsCFV-AeQ&s",
+      "rating": 5,
+      "version": "7.9.2023",
+      "description": "Tìm kiếm giọng nói kiki.",
+      "screenshots": [
+        "https://kiki.zalo.ai/public/img/share-kiki.png"
+      ],
+      "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kiki.xapk",
+      "packageName": "com.google.android.katniss",
+      "category_name": "Giọng Nói"
+    },
+    {
+      "id": "tk3",
+      "title": "SupperVoice(ADB)",
+      "icon": "https://tivixiaomi.vn/TVstore/truyenhinh/spvoidlogo.png",
+      "rating": 5,
+      "version": "2.5.3",
+      "description": "Tìm kiếm giọng nói ,gọi kênh truyền hình, youtube, tìm phim ... Lưu ý phải gỡ lỗi usb (ADB), có hướng dẫn khi cài",
+      "screenshots": [
+        "https://tivixiaomi.vn/TVstore/truyenhinh/spvoid.png"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/spvoid.apk",
+      "packageName": "com.linor.vn.supperVoice",
+      "category_name": "Giọng Nói"
+    },
+    {
+      "id": "tk4",
+      "title": "MapVoid",
+      "icon": "https://tivixiaomi.vn/TVstore/truyenhinh/mapvoidlogo.png",
+      "rating": 5,
+      "version": "2.1.0",
+      "description": "Tìm kiếm giọng nói ,gọi kênh truyền hình, youtube, tìm phim ... Lưu ý không cần gỡ lỗi usb (ADB) , có hướng dẫn khi cài",
+      "screenshots": [
+        "https://tivixiaomi.vn/TVstore/truyenhinh/Q8.jpg"
+      ],
+      "downloadUrl": "https://tivixiaomi.vn/TVstore/truyenhinh/mapvoid.apk",
+      "packageName": "com.linor.vn.mapVoice",
       "category_name": "Giọng Nói"
     }
   ],
