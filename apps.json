@@ -1,5 +1,5 @@
 {
-  "Truyền Hình": [
+  "Truyền Hình Trực Tuyến": [
     {
       "id": "tv1",
       "title": "Cò Tivi",
@@ -841,15 +841,75 @@
   "Trình Phát Video - Truyền Màn Hình ĐT lên TV": [
       {
         "id": "tpv1",
-        "title": "Eviz",
-        "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/ezviz1.png",
+        "title": "VCL",
+        "icon": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
         "rating": 5,
-        "version": "1.0.22",
+        "version": "mới nhất",
         "description": "Một ứng dụng hoàn toàn mới.",
-        "screenshots": ["https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg"],
-        "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
+        "screenshots": ["https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ"],
+        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vlc.apk",
         "packageName": "com.camera.newapp",
-        "category_name": "Camera"
+        "category_name": "Trình Phát Video"
+    },
+    {
+        "id": "tpv2",
+        "title": "MX Player Pro",
+        "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/mxp.png",
+        "rating": 5,
+        "version": "mới nhất",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://cdn.aptoide.com/imgs/e/2/9/e291471b520d5a69acc18f8273f96157_feature_graphic.png"],
+        "downloadUrl": "https://github.com/rupanh123-phap/PHAPFERRARI.github.io/releases/download/V1.0.0/mx64.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Trình Phát Video"
+    },
+    {
+        "id": "tpv3",
+        "title": "APlayer",
+        "icon": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+        "rating": 5,
+        "version": "mới nhất",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ"],
+        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/aplayer.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Trình Phát Video"
+    },
+    {
+        "id": "tpv4",
+        "title": "Just Player",
+        "icon": "https://play-lh.googleusercontent.com/LNF01ydGbukqvbFU9pTcZDSRfi86ipAqSdH0Mksb4vk3B4urmMx5qO37OvYXlBalXBE=w240-h480-rw",
+        "rating": 5,
+        "version": "mới nhất",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://cdn.aptoide.com/imgs/7/4/4/744d9986d18329fb63161c64fbdec371_feature_graphic.png"],
+        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/justplayerl.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Trình Phát Video"
+    },
+    {
+        "id": "tpv5",
+        "title": "Vimu Media Player",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+        "rating": 5,
+        "version": "mới nhất",
+        "description": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn. Phiên bản đã được mod việt hoá.",
+        "screenshots": ["https://m.media-amazon.com/images/I/41XdsMoLUyL.png"],
+        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vimu.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Trình Phát Video"
+    },
+    {
+        "id": "tpv6",
+        "title": "CastReceiver (Google Cast)",
+        "icon": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/07/75/669a63609d9d2_com.softmedia.receiver.castapp.png",
+        "rating": 5,
+        "version": "mới nhất",
+        "description": "Truyền màn hình - Google Cast cho thiết bị không hỗ trợ 😘.",
+        "screenshots": ["https://opengraph.githubassets.com/f9a687ebbfd618dc3bafc1bba49d211fcdd2d2ddde8f544da78e1f523ee5d011/googlecast/CastReceiver"],
+        "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/castreceiver.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Trình Phát Video"
     }
   ],
   "Tiện Ích Khác": [
