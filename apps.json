@@ -738,7 +738,7 @@
       "category_name": "Quản Lý File"
     }
     ],
-    "Phần mềm VPN": [
+    "Phần mềm VPN - Network": [
     {
       "id": "vpn1",
       "title": "VIETNAM VPN",
@@ -824,6 +824,34 @@
       "category_name": "Phần Mềm VPN"
     }
   ],
+  "Phần Mền Camera": [
+      {
+        "id": "cmr1",
+        "title": "Eviz",
+        "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/ezviz1.png",
+        "rating": 5,
+        "version": "1.0.22",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg"],
+        "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Camera"
+    }
+    ],
+  "Trình Phát Video - Truyền Màn Hình ĐT lên TV": [
+      {
+        "id": "tpv1",
+        "title": "Eviz",
+        "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/ezviz1.png",
+        "rating": 5,
+        "version": "1.0.22",
+        "description": "Một ứng dụng hoàn toàn mới.",
+        "screenshots": ["https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg"],
+        "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
+        "packageName": "com.camera.newapp",
+        "category_name": "Camera"
+    }
+  ],
   "Tiện Ích": [
     {
       "id": "tc1",
@@ -852,20 +880,6 @@
       "downloadUrl": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ferraridownloader.apk",
       "packageName": "com.kt.apps.media.xemtv.beta",
       "category_name": "Tiện Ích"
-    }
-    ],
-  "Phần Mềm Camera": [
-      {
-        "id": "cmr1",
-        "title": "Eviz",
-        "icon": "https://raw.githubusercontent.com/tvstore012026/Anh/main/ezviz1.png",
-        "rating": 5,
-        "version": "1.0.22",
-        "description": "Một ứng dụng hoàn toàn mới.",
-        "screenshots": ["https://raw.githubusercontent.com/tvstore012026/Anh/main/banerezviz.jpg"],
-        "downloadUrl": "https://github.com/tvstore012026/AppTV/raw/refs/heads/main/Karatube_v1.32.apk",
-        "packageName": "com.camera.newapp",
-        "category_name": "Camera"
     }
   ],
     "Giao Diện": [
